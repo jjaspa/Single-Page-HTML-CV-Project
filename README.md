@@ -22,5 +22,5 @@ To view the CV website, open the `index.html` file in a web browser. The page ca
 
 For questions, feedback, or collaboration opportunities:
 
-- GitHub: [@jjasp](https://github.com/jjaspa)
+- GitHub: [@jjaspa](https://github.com/jjaspa)
 - Email: [ctumusiime80@gmail.com](https://)

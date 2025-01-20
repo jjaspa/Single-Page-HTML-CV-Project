@@ -12,11 +12,11 @@ The Repository contains the source code for my single-page CV website, a a singl
 
 ## Resources
 
-This project was structured following guidelines from roadmap.sh - Single Page CV.
+This project was structured following guidelines from [ Roadmap](https://roadmap.sh/projects/single-page-cv) - Single Page CV.
 
 ## How to Use
 
-To view the CV website, open the index.html file in a web browser. The page can also be deployed on any static hosting service, such as GitHub Pages, for online access.
+To view the CV website, open the `index.html` file in a web browser. The page can also be deployed on any static hosting service, such as GitHub Pages, for online access.
 
 ## Contact
 
